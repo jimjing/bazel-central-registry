@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/mcubelab/wsg32-ros-pkg",
+    "maintainers": [],
+    "repository": [
+        "github:mcubelab/wsg32-ros-pkg"
+    ],
+    "versions": [
+        "0.0.1"
+    ],
+    "yanked_versions": {}
+}
